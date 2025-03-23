@@ -10,6 +10,5 @@ npx prisma migrate dev --name init
 
 npm run test
 
-
 docker compose down
 
